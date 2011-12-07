@@ -4,7 +4,6 @@ log/*.log
 tmp/**/*
 doc/api
 doc/app
-Gemfile.lock
 tmp/*
 *.swp
 .DS_Store
